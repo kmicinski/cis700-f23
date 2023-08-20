@@ -1,0 +1,18 @@
+# Site settings
+title: CIS700
+baseurl: "cis700-f23"
+url: "https://kmicinski.com/"
+description: "CMSC700--Modern Symbolic AI and Automated Reasoning at Syracuse U"
+permalink: pretty
+
+# Build settings
+#markdown: redcarpet
+
+# Build posts to appear in the future
+future: true
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

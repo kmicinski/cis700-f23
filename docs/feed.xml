@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIS700</title>
+    <description>CMSC700--Modern Symbolic AI and Automated Reasoning at Syracuse U</description>
+    <link>https://kmicinski.com/cis700-f23/</link>
+    <atom:link href="https://kmicinski.com/cis700-f23/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Aug 2023 20:52:15 -0400</pubDate>
+    <lastBuildDate>Sat, 19 Aug 2023 20:52:15 -0400</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Assignment 0: Introduction to Racket</title>
+        <description>&lt;p&gt;&lt;strong&gt;Due&lt;/strong&gt;: Monday, January 20th, 11:59PM.&lt;/p&gt;
+
+&lt;p&gt;Available on http://autograder.org. Use your credentials to login.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jan 2020 00:00:00 -0500</pubDate>
+        <link>https://kmicinski.com/cis700-f23/projects/0</link>
+        <guid isPermaLink="true">https://kmicinski.com/cis700-f23/projects/0</guid>
+        
+        
+        <category>assignment</category>
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
