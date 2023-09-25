@@ -5,8 +5,8 @@
     <description>CMSC700--Modern Symbolic AI and Automated Reasoning at Syracuse U</description>
     <link>https://kmicinski.com/cis700-f23/</link>
     <atom:link href="https://kmicinski.com/cis700-f23/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Sep 2023 17:55:32 -0400</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2023 17:55:32 -0400</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2023 17:56:07 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2023 17:56:07 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -127,8 +127,8 @@ formats:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Facts. Relations (alphanumeric, including &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_&lt;/code&gt;) applied to a
 comma-separated list of numbers: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(1,2,3)&lt;/code&gt; but not &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(x,1)&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Rules. A head of a rule, followed by ` :- &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;, followed by one or more
-bodies. The head and body clauses are of the form &lt;/code&gt;f(x,…)`,
+  &lt;li&gt;Rules. A head of a rule, followed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:-&lt;/code&gt;, followed by one or more
+bodies. The head and body clauses are of the form &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(x,...)&lt;/code&gt;,
 specifying either (a) an integer literal or (b) a variable
 name. Variables used in the head &lt;em&gt;must&lt;/em&gt; appear in the body (i.e.,
 they must be grounded).&lt;/li&gt;
